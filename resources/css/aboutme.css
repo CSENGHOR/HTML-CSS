@@ -1,6 +1,7 @@
 #menu-outer {
 	height: 84px;
 	background: url(images/bar-bg.jpg) repeat-x;
+    
 }
 
 .table {
@@ -18,20 +19,10 @@ ul#horizontal-list li {
 		display: inline;
 }
 
-.header_menu{
+#greeting-section{
     text-align: center;
-    background-color: lightcoral;
 }
 
-.banner{
-    background-color: rgb(87, 230, 255); 
-    color: white;
-    text-align: center;
-    padding-top: 60px;
-    padding-bottom: 20px;
-}
-
-.footer_text{
-    background-color: lightpink;
+#self-introduction{
     text-align: center;
 }
