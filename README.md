@@ -1,3 +1,3 @@
 # HTML-CSS
 
-# This repository is for my learning purpose.
+# This repository is for my on-going learning purpose.
